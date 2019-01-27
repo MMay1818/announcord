@@ -1,0 +1,1 @@
+bot.user.setPresence({ status: 'online', game: { name: 'Viewing Amar’s DM'S; BOT BY MMAY1818' } });   
