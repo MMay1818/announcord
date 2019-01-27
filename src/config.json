@@ -1,6 +1,6 @@
 {
     "defaultSettings": {
-        "prefix": "ann!",
+        "prefix": ":announce",
         "style": "both",
         "ignoreEmpty": "true",
         "voice": "Matthew",
@@ -12,7 +12,7 @@
         "whitelist": []
     },
     
-    "token": "NTM4OTM4NjY3NzM0MTM4OTAy.Dy7FZA.RBpvFv0Dzvt_YQ0E0vRHwK2pAdM",
+    "token": "NTM4OTU0MzA5MDk0NjA0ODYw.Dy7UsA.ssDWGATMVGiMxM2I3YxAGNocVng",
     "hardCodedPrefix": "ann$",
     "logLevel": "info"
 }
